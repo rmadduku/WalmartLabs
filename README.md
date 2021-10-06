@@ -17,5 +17,5 @@ Assumptions:
 
 The solution is designed for a 10 x 20 sized theather, but can easily be changed.
 The solution assumes that row A is the closest to the screen, whereas row J is the farthest.
-The solution assumes that if a customer does not get a seat in their preferred row, they will take the next backmost row.
+The solution assumes that if a customer does not get a seat in their preferred row, they will take one in the next backmost row.
 The solution assumes the input passes basic sanity checks, like being in the given format, and not given negative, or overcapacity seat numbers and rows.
